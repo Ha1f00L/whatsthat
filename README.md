@@ -1,2 +1,2 @@
 # whatsthat
-see the master branch
+see the other file
